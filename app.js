@@ -12,6 +12,10 @@ app.use((req, res, next) => {
     next();
 });
 
+app.get('/', (req, res) => {
+    res.send("https://cors-cut.glitch.me/your-url");
+});
+
 app.get('*', async (req, res) => {
     try
     {
