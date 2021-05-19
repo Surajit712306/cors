@@ -1,1 +1,1 @@
-HOSTING URL: https://cors-cut.glitch.me/
+## HOSTING URL: https://cors-pro.glitch.me
